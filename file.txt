@@ -1,0 +1,31 @@
+SERVICE AGREEMENT
+
+This Service Agreement is made effective as of July 1, 2025, between TechNova Solutions (the "Provider") and John Doe (the "Client").
+
+1. SERVICES PROVIDED:
+The Provider agrees to provide web development and maintenance services to the Client, as outlined in Exhibit A.
+
+2. PAYMENT TERMS:
+The Client shall pay a fixed fee of $5,000 upon completion of the project. No advance payment is required.
+
+3. TERM AND TERMINATION:
+This Agreement will commence on the effective date and will continue until terminated by either party with a 3-day notice. No penalties apply upon termination.
+
+4. LIABILITY:
+The Provider shall not be held liable for any indirect damages arising from the use of the services.
+
+5. INTELLECTUAL PROPERTY:
+All work produced shall remain the exclusive property of the Provider unless otherwise agreed.
+
+6. CONFIDENTIALITY:
+None.
+
+7. DATA PROTECTION:
+The Provider may share user data with third-party services for optimization purposes.
+
+8. GOVERNING LAW:
+This Agreement shall be governed in accordance with the laws of the State of California.
+
+Signed,
+TechNova Solutions
+John Doe
